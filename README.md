@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi, I'm sh4tteredd!
 
-<!--
-**sh4tteredd/sh4tteredd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at a high school in Italy! :pizza:
 
-Here are some ideas to get you started:
+And I use arch btw! ![Arch Linux](https://img.icons8.com/material-sharp/20/000000/arch-linux.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :muscle: Trying to learn as much as possible.
+- :gift_heart: In love with spreading OSS.
+- To learn: Rust, solidity.
+- Used to be a security researcher of iOS
+- not certified EtHiCAl hAckERrR!!!!!
+
+## OS:
+
+- Arch Linux
+- macOS (arm64 & hackintosh)
+- Windows 11 (unfortunately)
+
+## :wrench: Languages
+
+![C](https://img.icons8.com/color/30/000000/c-programming.png)![C++](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png)![C#](https://img.icons8.com/color/30/000000/c-sharp-logo.png)![Python](https://img.icons8.com/color/30/000000/python--v1.png)![Console](https://img.icons8.com/color/30/console.png)
+
+I'm not proud of this but I also know a little bit of: ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)
+
+## :telephone_receiver: Contacts
+
+loreeee#1351 on [Discord](https://discord.com/)
+
+## :heart: Donation
+
+If one of my projects are useful to you, you can buy me a coffee :)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/ilako)
+---
