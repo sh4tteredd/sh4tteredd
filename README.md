@@ -6,7 +6,7 @@ And I use arch btw! ![Arch Linux](https://img.icons8.com/material-sharp/20/00000
 
 - :muscle: Trying to learn as much as possible.
 - :gift_heart: In love with spreading OSS.
-- To learn: Rust, solidity.
+- What I have to learn: Rust, solidity.
 - Used to be a security researcher of iOS
 - not certified EtHiCAl hAckERrR!!!!!
 
