@@ -28,7 +28,7 @@ loreeee#1351 on [Discord](https://discord.com/)
 
 ## :heart: Donation
 
-If one of my projects are useful to you, you can buy me a coffee :)
+If one of my projects is useful, you can buy me a coffee :)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/ilako)
 ---
