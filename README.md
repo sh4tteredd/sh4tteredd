@@ -1,6 +1,6 @@
 # Hi, I'm sh4tteredd!
 
-I'm a student at a high school in Italy! :pizza:
+I'm a student at UNIPD in Italy! :pizza:
 
 And I use arch btw! ![Arch Linux](https://img.icons8.com/material-sharp/20/000000/arch-linux.png)
 
